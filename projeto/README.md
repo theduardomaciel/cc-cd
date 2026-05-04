@@ -44,7 +44,7 @@ Obras consultadas e/ou citadas
 O documento deve seguir o modelo de confecção de artigos para conferências segundo a Sociedade Brasileira de Computação (SBC).  
 O link [1] possui modelos em doc e latex do site da SBC.  
 O link [2] possui o modelo em latex da Overleaf.
-[1] https://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos  
+[1] https://www.sbc.org.br/documentosinstitucionais/#publicacoes
 [2] https://pt.overleaf.com/latex/templates/sbc-conferences-template/blbxwjwzdngr
 
 > [!NOTE] 

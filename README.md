@@ -96,6 +96,5 @@ jupyter notebook listas/lista2.ipynb
 
 ## 📚 Referências
 
-- Materiais das aulas de Ciência de Dados - UFAL 2026.1
-- Documentação oficial: scikit-learn, pandas, matplotlib
-- Boas práticas em relatório científico (SBC - Sociedade Brasileira de Computação)
+- [Materiais das aulas - UFAL 2026.1](./classes/)
+- [Modelos para Publicação de Artigos (SBC)](https://www.sbc.org.br/documentosinstitucionais/#publicacoes)
