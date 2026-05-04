@@ -4,9 +4,9 @@
   <img alt="Ciência de Dados" src="/.github/cover_light.png">
 </picture>
 
-# Ciência de Dados - UFAL 2026.1
+# Ciência de Dados
 
-Repositório com atividades, materiais de estudo e projetos desenvolvidos durante a disciplina de **Ciência de Dados** no curso de Engenharia da Computação da Universidade Federal de Alagoas (UFAL).
+Repositório com atividades, materiais de estudo e projetos desenvolvidos durante a disciplina de **Ciência de Dados** no curso de Ciência da Computação da Universidade Federal de Alagoas (UFAL).
 
 ## 📋 Estrutura do Repositório
 
@@ -94,28 +94,8 @@ pip install -r requirements.txt
 jupyter notebook listas/lista2.ipynb
 ```
 
-## 📌 Principais Decisões Metodológicas
-
-- **Validação:** Uso de k-fold cross-validation para robustez
-- **Pré-processamento:** Tratamento padronizado de dados antes da modelagem
-- **Comparação:** Avaliação sistemática de múltiplas técnicas para cada problema
-- **Interpretabilidade:** Priorização de modelos interpretáveis quando possível
-
-## 🎓 Aprendizados Principais
-
-Este repositório demonstra a aplicação prática de técnicas de Ciência de Dados desde a preparação dos dados até a apresentação de resultados, enfatizando:
-
-- A importância do pré-processamento na qualidade dos modelos
-- A seleção adequada de algoritmos conforme o problema
-- A validação rigorosa e comparação de abordagens
-- A comunicação clara dos resultados para stakeholders
-
 ## 📚 Referências
 
 - Materiais das aulas de Ciência de Dados - UFAL 2026.1
 - Documentação oficial: scikit-learn, pandas, matplotlib
 - Boas práticas em relatório científico (SBC - Sociedade Brasileira de Computação)
-
-## 📄 Licença
-
-Este projeto foi desenvolvido como atividade acadêmica na disciplina de Ciência de Dados (2026.1).
