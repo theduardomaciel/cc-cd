@@ -1,6 +1,8 @@
-
-
-# Projeto de Ciência de Dados - 2026.1
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../.github/projeto_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="../.github/projeto_light.png">
+  <img alt="Projeto de Ciência de Dados" src="../.github/projeto_light.png">
+</picture>
 
 ## Proposta
 Aplicação de Ciência de Dados em informações sobre demanda de reservas no setor hoteleiro.

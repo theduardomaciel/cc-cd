@@ -33,8 +33,19 @@ Bases de dados utilizadas nos exercícios e projetos:
 ### 📝 `/listas` - Exercícios Práticos
 Notebooks com exercícios e práticas implementadas em Python:
 
-- **lista1.ipynb** - Exercícios introdutórios
-- **lista2.ipynb** - Projeto abrangente de Aprendizagem de Máquina com 10 questões cobrindo:
+- **lista1.ipynb** - 10 questões cobrindo:
+  1. Diagnóstico Estrutural
+  2. Auditoria de Qualidade
+  3. Limpeza de dados
+  4. Análise Exploratória
+  5. Associação entre variáveis
+  6. Engenharia de atributos
+  7. Pré-processamento
+  8. Modelagem com KNN
+  9. Comparação entre modelos
+  10. Consolidação da solução
+
+- **lista2.ipynb** - 10 questões cobrindo:
   1. Definição do problema analítico
   2. Naive Bayes
   3. Regressão
@@ -63,7 +74,7 @@ O projeto utiliza as seguintes bibliotecas Python (ver `requirements.txt`):
 - **Machine Learning:** scikit-learn
 - **Redes:** networkx
 - **Jupyter:** jupyter, ipykernel
-- E outras dependências auxiliares
+- e outras dependências auxiliares...
 
 ## 🚀 Como Usar
 
